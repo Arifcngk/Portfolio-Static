@@ -70,7 +70,7 @@ Kocaeli Üniversitesi Öğrenci Yönetim Sistemi'ndeki yavaşlığa ve demode ta
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/EduHub/blob/main/assets/screenshots/main.png?raw=true)
+![Uygulama Ekran Görüntüsü]([https://github.com/KeyBoarT/EduHub/blob/main/assets/screenshots/main.png?raw=true](https://github.com/KeyBoarT/Portfolio-Static/blob/main/screenshots/adminPanel.png?raw=true))
 
 ![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/EduHub/blob/main/assets/screenshots/syllabus.png?raw=true)
 
