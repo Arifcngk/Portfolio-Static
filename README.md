@@ -72,9 +72,7 @@ Kocaeli Üniversitesi Öğrenci Yönetim Sistemi'ndeki yavaşlığa ve demode ta
 
 ![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/Portfolio-Static/blob/main/screenshots/adminPanel.png?raw=true)
 
-![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/EduHub/blob/main/assets/screenshots/syllabus.png?raw=true)
-
-![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/EduHub/blob/main/assets/screenshots/selection.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/KeyBoarT/Portfolio-Static/blob/main/screenshots/mainPanel.png?raw=true)
 ## Rozetler
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
