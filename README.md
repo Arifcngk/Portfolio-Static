@@ -9,18 +9,16 @@ EduHub, Kocaeli Üniversitesi öğrenci bilgi sistemi yapısının eski, demode 
 ## Özellikler
 
 - Kolay, anlaşılabilir arayüz
-- SEO Entegrasyonu
-- Server-Side Tarafında iyileştirmeler
-- Mobil ve masaüstü uyumlu full responsive arayüz
+- Static yapıda uygulama
+- Static arayüz, Responsive değil
 
   
 ## Kullanılan Teknolojiler
 
-**Sayfa Dizaynı:** HTML, CSS, Bootstrap, Chart.js
+**Sayfa Dizaynı:** Windows Form, C#
 
 **İstemci:** Javascript
 
-**Sunucu:** PHP
 ## Renk Referansı
 
 Açık Mod
@@ -82,17 +80,16 @@ Kocaeli Üniversitesi Öğrenci Yönetim Sistemi'ndeki yavaşlığa ve demode ta
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-[![Ionicon](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)]()
 
 ## Çıkarılan Dersler
 
-Projeyi inşa ederken html css ve native javascriptte oldukça geliştim, öte yandan responsive uygulama geliştirme konusunda epey yol kat ettiğimi düşünüyorum. Projede en zorlandığım kısım 'responsiveleştirme' yi saymazsak tasarım kısmı oldu. Hangi renkleri kullanmalıyım? Yazı fontu hangisi olmalı? Kenar yumuşatmaları ne kadar olmalı? gibi düzinelerce sorularla uğraştım. Öte yandan bunu aksine backend kısmında oldkuça kolay hareket ettim. Javascript ve Chartjs ile butonlara 'eventlistener' eklemek ya da html kısmında isim verdiğim elementleri js dosyasında bulmak oldukça keyif verdi. Tıpkı bir yapbozun parçalarını birleştiriyormuşum gibi hissettirdi. Her ne olursa olsun bu projeyi yapmak Full Stack Developer olma yolunda bana çok şey kattı.
+Projenin bu kısmını inşa ederken (STATIC), programın oldukça basit bir arayüze sahip olmasını ve anlaşılır olmasına dikkat ettim. Çünkü bu bir template proje, yani asıl amaç, müşteriye gerçek projenin arkaplanda nasıl çalışacağını göstermek.
   
 ## Yazarlar ve Teşekkür
 
