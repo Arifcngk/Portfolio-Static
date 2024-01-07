@@ -246,7 +246,7 @@ namespace PortfolioStatic
                     }
                     catch (Exception ex)
                     {
-                        MessageBox.Show("İşlem sırasında hata oluştu: " + ex.Message, "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("İşlem sırasında hata oluştu !!! " + ex.Message, "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
             }
