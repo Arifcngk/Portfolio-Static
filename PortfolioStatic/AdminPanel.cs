@@ -28,6 +28,7 @@ namespace PortfolioStatic
 
         //Verileri Databaseden getiren kod.
         private void GetData()
+      
         {
             try
             {
